@@ -1,0 +1,9 @@
+com\nana\userservice\service\UserService.class
+com\nana\userservice\models\Role.class
+com\nana\userservice\repo\UserRepo.class
+com\nana\userservice\repo\RoleRepo.class
+com\nana\userservice\service\UserServiceImplemetation.class
+com\nana\userservice\api\RoleToUserForm.class
+com\nana\userservice\models\User.class
+com\nana\userservice\UserserviceApplication.class
+com\nana\userservice\api\UserResource.class
